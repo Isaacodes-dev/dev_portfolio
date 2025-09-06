@@ -30,7 +30,7 @@ const LoadingScreen = ({onComplete}) => {
             </div>
         </div>
         </div>
-  )
+)
 }
 
 export default LoadingScreen
